@@ -7,5 +7,18 @@ html {
 h1 {
   Font-weight: Normal;
   Font-size: 50px;
-  Font-color: white;
+}
+
+h1, h2 {
+  color: white;
+}
+
+a {
+  color: aquamarine;
+  Font-size: 16px;
+}
+
+h4 {
+  color: Gray;
+  font-size: 21px;
 }
